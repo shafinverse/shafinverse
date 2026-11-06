@@ -25,13 +25,6 @@
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
   <legend align="left"><h3>Hi! I’m Shahriar Shafin, a student of BSc in Electrical and Electronics Engineering. Alongside my academic journey, I have a strong passion for video editing and graphic design. I enjoy turning creative ideas into visually engaging content, crafting compelling videos, and designing graphics that communicate stories with impact.</h3></legend>
 
-  <em>
-
-
-I enjoy turning ideas into real-world digital products from UI/UX and development to testing, optimization, and deployment. Alongside development, I also work with Digital Marketing and Google Ads to help businesses build and grow their online presence.
-
-Always learning, experimenting with new technologies, and looking for better ways to turn ideas into impactful digital solutions.
-
 Open to collaboration, freelance opportunities, and exciting projects.</p>
   </em> 
   <br>
